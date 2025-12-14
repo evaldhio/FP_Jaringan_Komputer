@@ -1,7 +1,7 @@
 # FP_Jaringan_Komputer
 
 
-##Konfigurasi
+## Konfigurasi
 
 I. Konfigurasi Router Interface (IP Statis - Gateway)
 Berikut adalah konfigurasi Command Line Interface (CLI) yang diterapkan pada masing-masing Router untuk mendefinisikan Gateway setiap subnet jaringan lokal.
