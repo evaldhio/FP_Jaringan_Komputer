@@ -1,0 +1,23 @@
+enable
+conf t
+
+interface FastEthernet0/0
+ip address 10.0.0.1 255.255.254.0
+
+interface FastEthernet1/0
+ip address 10.0.2.1 255.255.254.0
+
+interface FastEthernet9/0
+ip address 10.0.4.1 255.255.255.128
+
+interface FastEthernet8/0
+ip address 10.0.4.129 255.255.255.192
+
+interface FastEthernet7/0
+ip address 10.0.4.193 255.255.255.224
+
+interface FastEthernet6/0
+ip address 10.0.4.225 255.255.255.240
+
+no shutdown
+exit
