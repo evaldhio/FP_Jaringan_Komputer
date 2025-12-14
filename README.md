@@ -1,5 +1,8 @@
 # FP_Jaringan_Komputer
 
+<img width="1405" height="559" alt="image" src="https://github.com/user-attachments/assets/9da71863-abd5-444d-a7ca-ed3331c12a32" />
+
+
 
 ## Konfigurasi
 
